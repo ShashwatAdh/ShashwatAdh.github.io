@@ -1,8 +1,8 @@
 # site settings
 
 title: Shashwat Adhikari
-description: A personal site about myself and my wacky thoughts!
-taglong: Jekyll theme for a beautiful online CV
+description: Jekyll theme for a beautiful online CV
+taglong: A personal site to spill out my wacky thoughts!
 tagshort: Jekyll theme
 url: https://cvless.netlify.app
 baseurl: ""
