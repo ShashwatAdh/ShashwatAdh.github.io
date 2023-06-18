@@ -7,12 +7,11 @@ title: Home
 
 Hey there! Imagine a cool virtual hangout spot where I spill all the juicy details about me and my wacky thoughts. That's right, it's my personal website! Join me for a wild ride inside my brain and let's see what kind of mischief we can get up to together.
 
-<!--- This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+First, let me introduce myself—I'm a cyber security professional with a Master's degree in Cyber Security from the University of Plymouth. It was an incredible journey that allowed me to sharpen my skills and expand my knowledge. I'm currently pursuing a PhD at the same university because, hey, when you love what you do, why not take it to the next level, right?
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+Now, let's rewind a bit and explore my roots. I hail from the beautiful country of Nepal, where I discovered my passion for computers. I earned my bachelor's degree in Computer Engineering from Jain University in India, where I spent four exciting years honing my technical skills and immersing myself in a vibrant culture.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+So, buckle up and join me on this journey, together, we'll explore the ever-evolving cyber landscape. We will discuss new threats and vulnerabilities, all the while exchanging knowledge, insights, and a healthy dose of excitement. Exciting times await, my friends! 
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
---->
+
 {% include archive.html %}
