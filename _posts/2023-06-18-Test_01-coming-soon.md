@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog no. 2
+title: Online Piracy, Ethics, Morals and a Different Prespective.
 lead: Coming Very Soon
 ---
 
-# Online Piracy, Ethics, Morals and a Different Prespective. 
+##  My scond blog, coming out very soon, thanks for waiting.
