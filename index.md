@@ -7,19 +7,27 @@ title: Home
 
 <div align = "justify"> 
 
-Hey there! Imagine a cool virtual hangout spot where I spill all the juicy details about me and my wacky thoughts. That's right, it's my personal website! Join me for a wild ride inside my brain and let's see what kind of mischief we can get up to together.
+Hey there! Imagine a virtual hangout spot where I spill all the juicy details about me and my wacky thoughts. That's right, it's my personal website! Join me for an adventure through the twists and turns of my thoughts and let's see what kind of mischief we can get up to together.
 
 </div>
 <br>
 <div align = "justify"> 
 
-First, let me introduce myself—I'm a cyber security professional with a Master's degree in Cyber Security from the University of Plymouth. It was an incredible journey that allowed me to sharpen my skills and expand my knowledge. I'm currently pursuing a PhD at the same university because, hey, when you love what you do, why not take it to the next level, right?
+Let's rewind a bit and explore my roots, back to my childhood days when curiosity was my middle name! I was that kid who just couldn't resist taking things apart, always itching to see what made them tick. The problem was, I never quite mastered the art of putting them back together again in one piece. Let's just say I left a trail of broken gadgets in my wake, but hey, at least I satisfied my insatiable thirst for knowledge! Oh, and let me tell you about my wanderlust. I had this burning desire to explore every nook and cranny of the world, and lucky me, I grew up in a country that was an absolute paradise for adventure. With majestic mountains towering over me and breathtaking sceneries at every turn, I couldn't help but develop the mantra, "the next corner will always have better views." It was a mindset that fueled my love for discovering new places and at times helped me through some difficult times. It was around this time I also got really into computers. And you know what? As time went on, I also learned a thing or two about putting things back together—figuratively, of course. It was then that I made a decision. I knew deep down in my tinkering heart that I wanted to become an engineer 
+
+</div>
+<br>
+<div align = "justify">
+  
+After completing school and my A-Levels from home, I left my country and went to India to earn my bachelor's degree in Computer Engineering from Jain University. I spent four exciting years honing my technical skills while also travelling around a country with a rich and vibrant culture. It was during the engineering years that I narrowed my areas of interest into computers networks and then finally Cyber Security.
+
 
 </div>
 <br>
 <div align = "justify"> 
 
-Now, let's rewind a bit and explore my roots. I hail from the beautiful country of Nepal, where I discovered my passion for computers. I earned my bachelor's degree in Computer Engineering from Jain University in India, where I spent four exciting years honing my technical skills and immersing myself in a vibrant culture.
+Now I live in the UK and with a Master's degree from the University of Plymouth under my belt I consider myself a Cyber Security professional. It was an incredible journey where I spent some serious time honing my skills and diving deep into the fascinating world of cybersecurity. After conquering my Master's degree, I decided to take things up another notch. I'm currently knee-deep in a pursuit of a PhD at the same University of Plymouth, because, hey, when you love what you do, why not take it to the next level, right?
+
 
 </div>
 <br>
