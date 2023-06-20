@@ -19,8 +19,8 @@ A highly motivated recent graduate with a master's degree in cyber security seek
 
 
 `October 2021 - present`  <br>
-`PhD. Cyber Security`  
-__University of Plymouth, England.__  
+__PhD. Cyber Security__  
+__University of Plymouth__, England.  
 
 
 * Funded research exploring the viability of an IDS using low-level performance counters in IoT 
@@ -31,8 +31,8 @@ devices
 	* “Efficient Malware Detection using Hardware Performance Counters in IoT networks” – International Symposium on Software Reliability Engineering
 
 `September 2020 - September 2021`  
-`MSc. Cyber Security`  
-__University of Plymouth, England.__  
+__MSc. Cyber Security__  
+__University of Plymouth__, England.  
 
 
 * Modules included Cryptography, Ethical Hacking, Information Governance, Digital Forensics, and Incident Management.
@@ -40,8 +40,8 @@ __University of Plymouth, England.__
 
 
 `August 2015 - September 2019`
-`Bachelor in Technology, Computer Science And Engineering`  
-__Jain University, India__
+__Bachelor in Technology, Computer Science And Engineering__  
+__Jain University__, India
 
 * Modules included Enterprise Software Development, Big Data Analysis, Computer Graphics 
 and Visualization, Web Technologies, Microcontrollers and CPU Design, System Software and 
