@@ -18,8 +18,8 @@ A highly motivated recent graduate with a master's degree in cyber security seek
 ## Education
 
 
-`October 2021 - present`  <\n>
-__University of Plymouth, Plymouth.__
+`October 2021 - present`  <br>
+__University of Plymouth, England.__  
 PhD. Cyber Security
 
 * Funded research exploring the viability of an IDS using low-level performance counters in IoT 
