@@ -18,7 +18,7 @@ A highly motivated recent graduate with a master's degree in cyber security seek
 ## Education
 
 
-`October 2021 - present`  </n>
+`October 2021 - present`  <\n>
 __University of Plymouth, Plymouth.__
 PhD. Cyber Security
 
