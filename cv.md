@@ -19,8 +19,9 @@ A highly motivated recent graduate with a master's degree in cyber security seek
 
 
 `October 2021 - present`  <br>
+`PhD. Cyber Security`  
 __University of Plymouth, England.__  
-PhD. Cyber Security
+
 
 * Funded research exploring the viability of an IDS using low-level performance counters in IoT 
 devices
@@ -29,17 +30,19 @@ devices
 	* “A Perspective-Retrospective Analysis of Diversity in Signature-Based Open-Source Network Intrusion Detection Systems” – Empirical Software Engineering Journal
 	* “Efficient Malware Detection using Hardware Performance Counters in IoT networks” – International Symposium on Software Reliability Engineering
 
-`September 2020 - September 2021`
-__University of Plymouth, Plymouth.__
-MSc. CYber Security
+`September 2020 - September 2021`  
+`MSc. Cyber Security`  
+__University of Plymouth, England.__  
+
 
 * Modules included Cryptography, Ethical Hacking, Information Governance, Digital Forensics, and Incident Management.
 * Dissertation on ‘Power Consumption Analysis Towards Botnet Detection in IoT Devices.’
 
 
 `August 2015 - September 2019`
+`Bachelor in Technology, Computer Science And Engineering`  
 __Jain University, India__
-Bachelor in Technology, Computer Science And Engineering
+
 * Modules included Enterprise Software Development, Big Data Analysis, Computer Graphics 
 and Visualization, Web Technologies, Microcontrollers and CPU Design, System Software and 
 Compilers, Data Communication and Networks.
@@ -48,21 +51,12 @@ Classification’
 
 
 
+## Experience
+
+`Feb 2020 - Aug 2020`
+__Data Analyst__ __CloudFactory__, Nepal
 
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
 
 - Warden
 - Minted coins
