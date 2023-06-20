@@ -53,13 +53,37 @@ Classification’
 
 ## Experience
 
-`Feb 2020 - Aug 2020`
-__Data Analyst__ __CloudFactory__, Nepal
+`Feb 2020 - Aug 2020`  
+__Data Analyst__   
+__CloudFactory__, Kathmandu, Nepal
+
+- Analysed large datasets, consisting of thousands of samples, to identify patterns, trends, and anomalies crucial for training autonomous vehicle models.  
+- Utilized data visualization tools, such as RStudio and Python libraries, to present findings and communicate key insights to stakeholders.  
+- Developed data validation and quality assurance frameworks, resulting in a data accuracy rate of 97%.  
+- Implemented key performance indicators (KPIs) and tracked team performance, resulting in a 19% increase in throughput.  
+   
+
+`March 2019 - May 2019`  
+__Business Intelligence Intern__  
+__WhaleCloud Technologies__, Kathmandu, Nepal.  
+
+- Contributed to the design and implementation of user-friendly interfaces, enabling seamless 
+interaction with data visualization, reporting, and analysis functionalities.
+- Played a key role in integrating various data sources and implementing data transformation 
+processes, ensuring accurate and reliable insights for decision-making.
+- Conducted interactive training sessions, engaging team members in hands-on exercises to 
+strengthen their proficiency in utilizing the software for data analysis and reporting.
 
 
+## Personal Projects:
+`Self-Hosted VPN Solution`   
+- Successfully implemented a self-hosted VPN server residing in the AWS cloud, ensuring secure remote access and data encryption. 
+- Maintained the server's security through regular updates and comprehensive audits, prioritizing the protection of sensitive information. 
+- Recently transitioned the VPN server to Oracle Cloud, taking advantage of their always free tier, following the expiration of the AWS’s 1 year free-tier offer.
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Home Malware Analysis Lab`  
+- Constructed a malware analysis infrastructure within my home environment, complete with a dedicated sandbox and simulated internet connectivity. 
+- Designed to emulate real-world scenarios, this lab facilitated the identification of malicious software and the development of effective countermeasures. 
+- Actively updated and expanded the lab's capabilities to stay abreast of evolving cyber threats and enhance skills in malware analysis and detection
+
