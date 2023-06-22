@@ -6,6 +6,7 @@ title: Home
 # About Me
 
 ## Career Summary
+<br>
 <div align = "justify">
   
 I am a Cyber Security graduate with a master's degree in Cyber Security, actively seeking opportunities to further my professional growth in the industry. With a strong engineering background, technical expertise, research experience, and a proven track record in customer service and sales, I bring a unique combination of technical cyber security skills and exceptional interpersonal abilities. I excel at effectively communicating complex technical concepts to a diverse audience, allowing me to build strong relationships with clients or stakeholders. Adaptable to fast-paced environments, I leverage my technical expertise and customer-centric approach to drive successful outcomes. 
