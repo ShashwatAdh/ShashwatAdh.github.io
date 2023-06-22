@@ -3,13 +3,19 @@ layout: home
 title: Home
 ---
 
-# About
-<br>
-<div align = "justify"> 
+# About Me
 
-Hey there! Imagine a virtual hangout spot where I spill all the juicy details about me and my wacky thoughts. That's right, it's my personal website! Join me for an adventure through the twists and turns of my thoughts and let's see what kind of mischief we can get up to together.
+## Career Summary
+<div align = "justify">
+  
+I am a highly motivated recent graduate with a master's degree in Cyber Security, actively seeking opportunities to further my professional growth in the industry. With a strong engineering background, technical expertise, research and teaching experience, and a proven track record in customer service and sales, I bring a unique combination of technical cyber security skills and exceptional interpersonal abilities. I excel at effectively communicating complex technical concepts while building strong relationships with clients and stakeholders. Adaptable to fast-paced environments, I leverage my technical expertise and customer-centric approach to drive successful outcomes. 
+Currently pursuing a PhD in Cyber Security at the University of Plymouth, my research explores the viability of an IDS using low-level performance counters in IoT devices. I have also completed a side project investigating the diversity between Snort and Suricata’s rules and functionality. Alongside my academic pursuits, I have gained industry experience as a Data Analyst, contributing to the analysis of large datasets for autonomous vehicle models, and as a Business Intelligence Intern, working on data visualization and integration projects. 
+In my personal projects, I have implemented a self-hosted VPN solution in the AWS and Oracle Cloud environments, ensuring secure remote access and data encryption. Additionally, I have built a home malware analysis lab to enhance my skills in malware detection and analysis. With a passion for cyber security and a dedication to continuous learning, I am ready to make a meaningful contribution to the industry and drive innovation in protecting digital assets.
 
 </div>
+
+# The Long Version
+
 <br>
 <div align = "justify"> 
 
